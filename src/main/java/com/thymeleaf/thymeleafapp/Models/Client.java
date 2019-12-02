@@ -12,6 +12,7 @@ import javax.validation.constraints.NotNull;
 
 @Entity
 public class Client {
+
     @Id
     @NotNull
     @GeneratedValue(strategy = GenerationType.AUTO)

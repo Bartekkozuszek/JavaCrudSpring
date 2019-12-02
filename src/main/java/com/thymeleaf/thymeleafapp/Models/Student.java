@@ -12,6 +12,7 @@ import java.util.Date;
 
 @Entity
 public class Student {
+
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     public Integer Id;
@@ -38,9 +39,6 @@ public class Student {
         this.name = name;
         this.department = department;
         this.updatedBy = updatedBy;
-
-
-
     }
 
     public Integer getId() {

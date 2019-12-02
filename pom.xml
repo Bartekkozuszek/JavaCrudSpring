@@ -11,7 +11,7 @@
 	<groupId>com.thymeleaf</groupId>
 	<artifactId>thymeleaf-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>thymeleaf-app</name>
+	<name>Lab1Lab2Java</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
